@@ -1,2 +1,2 @@
-LINK QUERY
+
 https://console.cloud.google.com/bigquery?sq=735649453823:3486346c545d4faaa4c4fcf447d3e743
